@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/expressive_jelly/static/css/main.27822f64.chunk.css",
+    "main.js": "/expressive_jelly/static/js/main.51ea9cc8.chunk.js",
+    "main.js.map": "/expressive_jelly/static/js/main.51ea9cc8.chunk.js.map",
+    "runtime-main.js": "/expressive_jelly/static/js/runtime-main.3db6b551.js",
+    "runtime-main.js.map": "/expressive_jelly/static/js/runtime-main.3db6b551.js.map",
+    "static/js/2.8f15c97f.chunk.js": "/expressive_jelly/static/js/2.8f15c97f.chunk.js",
+    "static/js/2.8f15c97f.chunk.js.map": "/expressive_jelly/static/js/2.8f15c97f.chunk.js.map",
+    "static/js/3.fb57ffe3.chunk.js": "/expressive_jelly/static/js/3.fb57ffe3.chunk.js",
+    "static/js/3.fb57ffe3.chunk.js.map": "/expressive_jelly/static/js/3.fb57ffe3.chunk.js.map",
+    "index.html": "/expressive_jelly/index.html",
+    "static/css/main.27822f64.chunk.css.map": "/expressive_jelly/static/css/main.27822f64.chunk.css.map",
+    "static/js/2.8f15c97f.chunk.js.LICENSE.txt": "/expressive_jelly/static/js/2.8f15c97f.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/expressive_jelly/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3db6b551.js",
+    "static/js/2.8f15c97f.chunk.js",
+    "static/css/main.27822f64.chunk.css",
+    "static/js/main.51ea9cc8.chunk.js"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf8a401a73149Dc6340745DFe08645ea44e47B387",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf8a401a73149dc6340745dfe08645ea44e47b387",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Expressive Jelly",
+  "SYMBOL": "EJ",
+  "MAX_SUPPLY": 1588,
+  "WEI_COST": 1100000000000000000,
+  "DISPLAY_COST": 1.10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/expressivejelly",
+  "SHOW_BACKGROUND": false
+}
